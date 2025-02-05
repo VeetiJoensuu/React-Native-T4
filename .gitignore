@@ -1,0 +1,34 @@
+# Ignore node_modules in the HeartRateLimits subfolder
+TodoList/node_modules/
+
+# Ignore Expo files in the HeartRateLimits subfolder
+TodoList/.expo/
+TodoList/.expo-shared/
+
+# Logs
+TodoList/logs/
+TodoList/*.log
+TodoList/npm-debug.log*
+TodoList/expo-debug.log*
+
+# Yarn Integrity file
+TodoList/.yarn-integrity
+
+# Optional npm cache directory
+TodoList/.npm/
+
+# Optional dotenv environment variable file
+TodoList/.env
+
+# MacOS files
+TodoList/.DS_Store
+
+# Android & iOS build artifacts
+TodoList/*.apk
+TodoList/*.apkg
+TodoList/*.aar
+TodoList/*.ipa
+TodoList/.DS_Store
+
+# Build directory
+TodoList/build/
